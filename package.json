@@ -1,0 +1,24 @@
+{
+  "name": "testapp",
+  "author": "Ben <me@benng.me>",
+  "version": "0.0.1",
+  "dependencies": {
+    "geddy": "0.8.x",
+    "mongodb-wrapper": "0.4.x",
+    "async": "0.2.x",
+    "ejs": "0.8.x",
+    "mime": "1.2.x",
+    "socket.io": "0.9.x",
+    "passport": "0.1.x",
+    "passport-local": "0.1.x",
+    "bcrypt": "0.7.x",
+    "jake": "0.5.x",
+    "passport-twitter": "0.1.x",
+    "passport-facebook": "0.1.x",
+    "passport-yammer": "0.1.x"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.2.x"
+  }
+}
